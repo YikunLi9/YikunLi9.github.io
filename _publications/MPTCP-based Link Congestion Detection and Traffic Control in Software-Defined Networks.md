@@ -3,7 +3,7 @@ title: "MPTCP-based Link Congestion Detection and Traffic Control in Software-De
 collection: publications
 permalink: /publication/MPTCP-based Link Congestion Detection and Traffic Control in Software-Defined Networks  
 excerpt: 'This paper is about a approach to solve the MPTCP subflow performance degradation problem caused by link congestion.'
-date: 'TBD'
+date: 
 venue: 'TBD'
 paperurl: 
 citation: 
