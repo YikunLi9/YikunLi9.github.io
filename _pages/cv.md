@@ -44,7 +44,7 @@ Skills
 * Experience in data visualization: 
   * <I>Unity</I>
 
-* Background about control technology, electrical engineering and sensor technology.
+* Background about electrical engineering, control technology and sensor technology.
   
 * Experienced hands-on innovation and entrepreneurship courses and programs, with considerable teamwork and leadership skills,  and strong skill of presentation etc.
 
