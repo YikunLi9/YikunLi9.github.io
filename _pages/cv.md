@@ -35,13 +35,15 @@ Skills
 * Experienced in project simulation: 
   * <I>Matlab</I>
   * <I>Simulink</I>
-
 * Years of programming experience in multiple languages:
   * <I>C/C++</I>
   * <I>JavaSE/EE</I>
   * <I>Python</I>
   * <I>HTML/CSS</I>
   * <I>Javascript</I>
+* Experience in data visualization: 
+  * <I>Unity</I>
+
 * Experienced hands-on innovation and entrepreneurship courses and programs, with considerable teamwork and leadership skills,  and strong skill of presentation etc.
 
 Publications

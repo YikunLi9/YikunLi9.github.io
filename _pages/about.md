@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Msc student from [Connected Environments, CASA](https://connected-environments.org/), [University College London](https://www.ucl.ac.uk/). My research interest includes Robotics, UAVs, SLAM, Computer Vision, Networking, AR and Internet of Things.
+I'm currently a Msc student from [Connected Environments, CASA](https://connected-environments.org/), [University College London](https://www.ucl.ac.uk/). My research interest includes Robotics, UAVs, SLAM,  Autonomous Vehicles, Computer Vision, Networking, AR and Internet of Things.
 
 I graduated from School of Internet of Things, Xi'an Jiaotong-Liverpool Univeristy with a bachelor’s degree, advised by [Dr. Bong-Hwan Oh](https://www.xjtlu.edu.cn/en/staff-details/staff/bonghwan-oh). Prior to that, I also worked as a Research Assistant with Dr. Bong-Hwan Oh.
 
