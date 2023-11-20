@@ -12,6 +12,8 @@ I'm currently a Msc student from [Connected Environments, CASA](https://connecte
 
 I graduated from School of Internet of Things, Xi'an Jiaotong-Liverpool Univeristy with a bachelor’s degree, advised by [Dr. Bong-Hwan Oh](https://www.xjtlu.edu.cn/en/staff-details/staff/bonghwan-oh). Prior to that, I also worked as a Research Assistant with Dr. Bong-Hwan Oh.
 
-You can find my CV here: [Yikun Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yikun Li's Curriculum Vitae](https://yikunli9.github.io/cv/) or [PDF](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:yikun.li.22@ucl.ac.uk) / [Github](https://github.com/YikunLi9) /[LinkedIn](https://www.linkedin.com/in/yikun-li-a86576294/)
+**I am currently looking for a Ph.D. position in Robotics and related fields of 2024. Feel free to email me for potential opportunities.**
+
+[Email](mailto:yikun.li.22@ucl.ac.uk) / [Github](https://github.com/YikunLi9) / [LinkedIn](https://www.linkedin.com/in/yikun-li-a86576294/)
