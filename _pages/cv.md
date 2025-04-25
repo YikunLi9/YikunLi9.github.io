@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* BEng in  Internet of Things Engineering with Contemporary Entrepreneurialism, Xi'an Jiaotong-Liverpool University, 2019
+* BEng in Internet of Things Engineering with Contemporary Entrepreneurialism, Xi'an Jiaotong-Liverpool University, 2019
 * Msc. in Connected Environments, University College London, 2023
+* Ph.D. in Robotics, University of Liverpool, 2025
 
 Work experience
 ======

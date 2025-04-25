@@ -11,9 +11,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yikun Li"
 description              : &description "personal description"
-url                      : https://YikunLi9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YikunLi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YikunLi9/YikunLi9.github.io"
+repository               : "YikunLi9/YikunLi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yikun Li (李奕锟)"
   avatar           : "profile.png"
-  bio              : "Master student in CASA, UCL. Looking for a Ph.D. position."
-  location         : "London, UK"
+  bio              : "Robotics Ph.D. student at University of Liverpool"
+  location         : "Liverpool, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
