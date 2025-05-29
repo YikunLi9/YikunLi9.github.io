@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Robotics Ph.D. student at [University of Liverpool](https://www.liverpool.ac.uk/), supervised by [Prof. Chenguang Yang]([www.liverpool.ac.uk](https://www.liverpool.ac.uk/people/charlie-yang)) and [Dr. Anh Nguyen]([www.liverpool.ac.uk](https://www.liverpool.ac.uk/computer-science/staff/anh-nguyen/)).
+I'm currently a Robotics Ph.D. student at [University of Liverpool](https://www.liverpool.ac.uk/), supervised by [Prof. Chenguang Yang](https://www.liverpool.ac.uk/people/charlie-yang) and [Dr. Anh Nguyen](https://www.liverpool.ac.uk/computer-science/staff/anh-nguyen/).
 
 I graduated with an MSc in Connected Environments from [CASA](https://connected-environments.org/), [University College London](https://www.ucl.ac.uk/), and I hold a Bachelor's degree from the School of Internet of Things, Xi'an Jiaotong-Liverpool University, where I was advised by [Dr. Bong-Hwan Oh](https://scholar.xjtlu.edu.cn/en/persons/BongHwanOh). Prior to that, I also worked as a Research Assistant with Dr. Oh.
 
